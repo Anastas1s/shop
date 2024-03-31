@@ -1,0 +1,19 @@
+.Card-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.Card {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.Card-description {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.Card-price {
+    margin: 10px;
+}
